@@ -1,3 +1,3 @@
-# 6841 Something Awersome
+# 6841 Something Awesome
 
 Zhou Yu - z5371570, f10B. Report in report.md
